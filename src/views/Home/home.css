@@ -1,0 +1,26 @@
+.home{
+    background-color: gray;
+}
+
+.top{
+    padding: 100px;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.card{
+    box-shadow: 5px 5px 10px black;
+    height: 100%;
+    text-align: center;
+    border-style: none;
+}
+
+.title{
+    font-size: x-small;
+}
